@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Shajar Ali
+🔗 Blockchain Developer | Solidity | JavaScript | React | Ethers.js
 
-<!--
-**Shajar77/Shajar77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m currently working on: Smart Contracts, DeFi, dApps  
+📚 I’m learning: Advanced smart contract security, Layer 2s  
+🛠️ Tools I use: Hardhat, React.js, Ethers.js, IPFS, Git  
+📫 Reach me: shajaralii773@gmail.com | [LinkedIn](https://www.linkedin.com/in/shajar-ali-8a3ba2364)
 
-Here are some ideas to get you started:
+## 📌 Projects
+- 🔗 [Crowdfunding dApp](https://github.com/Shajar77/crowdfunding-dapp)
+- 🗳️ [Voting Smart Contract](https://github.com/Shajar77/voting-contract)
+- 🖼️ [NFT Marketplace](https://github.com/Shajar77/nft-marketplace)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📄 Certifications
+- [Blockchain: Beyond the Basics – LinkedIn](#)
+- [Solidity Course – Udemy](#)
