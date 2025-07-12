@@ -1,4 +1,4 @@
-Hi, I'm Shajar Ali
+# Hi, I'm Shajar Ali
 Blockchain Developer | Solidity | JavaScript | React | Ethers.js
 
 I’m currently working on: Smart Contracts, DeFi, dApps  
