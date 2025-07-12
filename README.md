@@ -8,4 +8,4 @@ Reach me: shajaralii773@gmail.com | [LinkedIn](https://www.linkedin.com/in/shaja
 
 📄 Certifications
 - [Blockchain: Beyond the Basics – LinkedIn](#)
-- [Solidity Course – Udemy](#)
+- [Advanced Solidity & Smart Contracts Course – Udemy](#)
